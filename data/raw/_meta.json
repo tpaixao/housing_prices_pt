@@ -1,0 +1,26 @@
+{
+ "0014764": {
+  "desc": "Vendas de alojamentos familiares nos últimos 12 meses (Metodologia 2022 - N.º) por Localiz",
+  "n": 2,
+  "first": "1.º Trimestre de 2026",
+  "last": "2.º Trimestre de 2026"
+ },
+ "0014765": {
+  "desc": "Índice de preços da habitação (Base - 2025) por Categoria do alojamento familiar; Trimestr",
+  "n": 70,
+  "first": "1.º Trimestre de 2009",
+  "last": "4.º Trimestre de 2025"
+ },
+ "0014766": {
+  "desc": "Índice de preços da habitação (Taxa de variação trimestral - Base 2025 - %) por Categoria ",
+  "n": 69,
+  "first": "1.º Trimestre de 2010",
+  "last": "4.º Trimestre de 2025"
+ },
+ "0014767": {
+  "desc": "Índice de preços da habitação (Taxa de variação homóloga - Base 2025 - %) por Categoria do",
+  "n": 66,
+  "first": "1.º Trimestre de 2010",
+  "last": "4.º Trimestre de 2025"
+ }
+}
